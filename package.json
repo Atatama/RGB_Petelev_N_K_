@@ -1,0 +1,13 @@
+{
+  "name": "RGB_Petelev_N_K_",
+  "version": "1.0.0",
+  "repository": "https://github.com/Atatama/RGB_Petelev_N_K_",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "goss_concat": "^1.0.3"
+  }
+}
